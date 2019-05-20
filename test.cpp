@@ -11,3 +11,7 @@ void testfunction2()
 
 		100エーカー
 }
+
+void testtest2() {
+	いいいいいいいいいいい
+}
